@@ -332,46 +332,4 @@ steps:
     allowUpdates: true
 
 Последний шаг загружает созданные в предыдущих шагах пакеты в активы релиза. В этом примере используется действие ncipollo/release-action, которое создает релиз в репозитории и загружает пакеты таким образом, чтобы эти файлы были доступны для загрузки в качестве компонентов релиза.
-About
-No description, website, or topics provided.
-Resources
-Readme
-License
-Apache-2.0 license
-Activity
-Stars
-0 stars
-Watchers
-1 watching
-Forks
-0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-
-Makefile 38.4%
-CMake 23.6%
-C++ 19.2%
-C 18.5%
-
-    TypeScript 0.3% 
-
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
 
